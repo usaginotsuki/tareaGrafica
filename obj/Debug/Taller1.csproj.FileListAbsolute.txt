@@ -1,0 +1,10 @@
+C:\Users\Alex\source\repos\Taller1\Taller1\obj\Debug\Taller1.Form1.resources
+C:\Users\Alex\source\repos\Taller1\Taller1\obj\Debug\Taller1.Properties.Resources.resources
+C:\Users\Alex\source\repos\Taller1\Taller1\obj\Debug\Taller1.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Taller1\Taller1\obj\Debug\Taller1.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Taller1\Taller1\bin\Debug\Taller1.exe.config
+C:\Users\Alex\source\repos\Taller1\Taller1\bin\Debug\Taller1.exe
+C:\Users\Alex\source\repos\Taller1\Taller1\bin\Debug\Taller1.pdb
+C:\Users\Alex\source\repos\Taller1\Taller1\obj\Debug\Taller1.exe
+C:\Users\Alex\source\repos\Taller1\Taller1\obj\Debug\Taller1.pdb
+C:\Users\Alex\source\repos\Taller1\Taller1\obj\Debug\Taller1.csproj.AssemblyReference.cache
